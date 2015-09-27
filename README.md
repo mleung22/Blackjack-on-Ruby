@@ -1,2 +1,2 @@
 # Blackjack-on-Ruby
-Simple Blackjack game using Ruby
+Simple Text Based Blackjack game using Ruby
